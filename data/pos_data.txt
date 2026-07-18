@@ -1,0 +1,10 @@
+Ravi/NOUN is/VERB playing/VERB cricket/NOUN
+She/PRON reads/VERB a/DET book/NOUN
+The/DET dog/NOUN runs/VERB quickly/ADV
+They/PRON are/VERB happy/ADJ
+A/DET beautiful/ADJ bird/NOUN sings/VERB
+Students/NOUN study/VERB hard/ADV
+He/PRON likes/VERB fresh/ADJ food/NOUN
+The/DET sun/NOUN shines/VERB brightly/ADV
+We/PRON learn/VERB artificial/ADJ intelligence/NOUN
+My/DET friend/NOUN writes/VERB code/NOUN
